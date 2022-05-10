@@ -94,15 +94,42 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
    
    ![Card Interface](/images/cover-Images/final-version/player-interface-2.PNG)
    
-   - Bottom Interface
+   - Player Unit Counter, Health & Mana Bar, and Timer
    
    ![Interface 1](/images/cover-Images/final-version/player-interface-1.PNG)
    
 ### Player Spells
+- Spell 1
+
+![spell-1-card](/images/cover-Images/final-version/spell-1-card.PNG)
+
+![spell-1](/images/cover-Images/final-version/spell-1.PNG)
+
+- Spell 2
+
+![spell-2-card](/images/cover-Images/final-version/spell-2-card.PNG)
+
+![spell-2](/images/cover-Images/final-version/abilitie-two.PNG)
+
+- Spell 3
+
+![spell-3-card](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/spell-3-card.PNG)
+
 ### Power Ups
-   - Apple Read
-   - Apple Blue
-   - Apple Green
+- Apple Read
+  - Heals Player Unit & Player
+   
+   ![apple-heal](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/heal-power-up.PNG)
+   
+- Apple Blue
+  - Gives Mana Back to player
+  
+  ![apple-mana](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/mana-power-up.PNG)
+  
+- Apple Green
+  - Damages the Enemy Player
+  
+  ![apple-hurt](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/deal-damage-powerup.PNG)
 
 ### Enemy Side
 ### Units
