@@ -112,7 +112,8 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 ### 3. Jestiny Lubas
 - Picture of your Team member
 - ACM Student, Senior
-- Designed and created character asset sprites
+- In charge of creating asset sprites
+- Designed and created character sprites
   - Spearman
   - Knight
   - Archer
