@@ -73,7 +73,8 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 
 
 ## Final Product
-- put image with link to a channel that demonstrate the game
+- Final Version:
+[![Final Version](/images/cover-Images/final-version/final-version-cover.PNG)](https://youtu.be/aDY0pHC8lZg)
 - put the link to where the game is currently hosted in
 
 ## Team Members
