@@ -2,7 +2,7 @@
 - [Overview](#overview)
 - [How to Play](#how-to-play)
 - [Team Ideas](#team-ideas)
-- [Prototype](#prototype)
+- [Early Prototype](#early-prototype)
 - [Team Members](#team-members)
 - [Trello Board](#trello-board)
 
@@ -51,7 +51,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 ## Team Ideas
 - Screen shot of the brains storm idea?
 
-# Prototype
+# Early Prototype
 ### Demo Video:
 [![Prototype Demo](images/cover-Images/Prototype-cover-image.PNG)](https://youtu.be/oZFPC-a47eo)
 
@@ -74,6 +74,8 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Early Gameplay
   
      ![Early Gameplay](/images/cover-Images/prototype-images/gamplay-prototype.PNG)
+     
+##
 
 # Team Members
 
