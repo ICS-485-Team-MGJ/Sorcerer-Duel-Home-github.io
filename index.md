@@ -100,18 +100,22 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
    
 ## Player Spells
 - Spell 1
+  - Fires meteors to all enemies in range
 
 ![spell-1-card](/images/cover-Images/final-version/spell-1-card.PNG)
 
 ![spell-1](/images/cover-Images/final-version/spell-1.PNG)
 
 - Spell 2
-
+  - Shoots a laser at player position
+  
 ![spell-2-card](/images/cover-Images/final-version/spell-2-card.PNG)
 
 ![spell-2](/images/cover-Images/final-version/abilitie-two.PNG)
 
 - Spell 3
+  - Shoots laser at the barriers positions
+  - The lasers shoot in 3 patterns
 
 ![spell-3-card](/images/cover-Images/final-version/spell-3-card.PNG)
 
