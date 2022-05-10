@@ -247,14 +247,24 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
    - Implemented change in background music when enemy health reaches 50%
 
 ## 3. Jestiny Lubas
-- Picture of your Team member
+ <img src="/images/jestiny/265458506_1046682422784000_2781939306569641263_n.jpg">
+ 
 - ACM Student, Senior
 - In charge of creating asset sprites
 - Designed and created character sprites
-  - Spearman
-  - Knight
-  - Archer
-  - Player/Enemy
+### Horsemen
+- Horsemen Sprite
+
+![walking-sprite](/images/jestiny/Spearman.png)
+
+- Horsemen Death Sprite
+
+![dead-sprite](/images/jestiny/Spearman%20_death.png)
+
+### Knight
+### Archer
+### Player
+### Enemy
 - Created magic spell sprites
   - Metorite
   - Laser
