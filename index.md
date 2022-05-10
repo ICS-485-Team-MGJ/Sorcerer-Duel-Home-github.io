@@ -1,8 +1,10 @@
 # Table of Contents
-- link me to header 1
-- link me to header 2
-- link me to header 3
-- link me to header 4
+- [Overview](#overview)
+- [Team Ideas](#team ideas)
+- [Prototype](#prototype)
+- [Final product](#final product)
+- [Team Members](#team members)
+- [Trello Board](#trello board)
 
 # Overview
 - brief synopsis of the game, give a short elavator summary about the game
