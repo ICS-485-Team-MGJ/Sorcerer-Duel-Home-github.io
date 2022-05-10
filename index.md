@@ -78,9 +78,19 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
      
 ## Final Version
 ### Starting Menue
+![Starting Menue](/images/cover-Images/final-version/final-version-cover.PNG)
+
 ### Lose Menue
+![Lose Menue](/images/cover-Images/final-version/lose-scene.PNG)
+
 ### Win Menue
+![Win Menue](/images/cover-Images/final-version/win-scene.PNG)
+
 ### Player Side
+   - Player
+   
+   ![player](/images/cover-Images/final-version/player.PNG)
+   
 ### Player Interface
 ### Player Spells
 ### Power Ups
