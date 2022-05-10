@@ -86,12 +86,18 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 ### Win Menue
 ![Win Menue](/images/cover-Images/final-version/win-scene.PNG)
 
-### Player Side
-   - Player
-   
-   ![player](/images/cover-Images/final-version/player.PNG)
+### Player Side   
+   ![player side](/images/cover-Images/final-version/player-side.PNG)
    
 ### Player Interface
+   - Unit, Spell Card, and Kill Counter Interface
+   
+   ![Card Interface](/images/cover-Images/final-version/player-interface-2.PNG)
+   
+   - Bottom Interface
+   
+   ![Interface 1](/images/cover-Images/final-version/player-interface-1.PNG)
+   
 ### Player Spells
 ### Power Ups
    - Apple Read
