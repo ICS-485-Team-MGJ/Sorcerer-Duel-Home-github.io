@@ -51,11 +51,11 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 ## Team Ideas
 - Screen shot of the brains storm idea?
 
-## Prototype
-- Demo Video:
+# Prototype
+### Demo Video:
 [![Prototype Demo](images/cover-Images/Prototype-cover-image.PNG)](https://youtu.be/oZFPC-a47eo)
 
-- Early stages of the Game:
+## Early stages of the Game
   - Player Side:
   
      ![Player Side](/images/cover-Images/prototype-images/player-side.PNG)
@@ -75,9 +75,9 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   
      ![Early Gameplay](/images/cover-Images/prototype-images/gamplay-prototype.PNG)
 
-## Team Members
+# Team Members
 
-### 1. [Marcos Buccat](https://buccatm.github.io/)
+## 1. [Marcos Buccat](https://buccatm.github.io/)
 <img src="images/marcosb/gitHub-profile-picture.jpg" width="220" height="220">
 
 - ICS Student, Senior
@@ -91,7 +91,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 - Implemented the Win & Lose Conditions
 - Implemented the Functionality of the Start, Win, and Lose scnene
  
-### 2. [Glen Larita](https://glarita.github.io/)
+## 2. [Glen Larita](https://glarita.github.io/)
 <img src="images/glen/IMG_0183.jpeg" height="220">
 
 - ICS Student, Senior 
@@ -108,7 +108,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
    - implemented animation of characters provided by Jestiny
    - Implemented change in background music when enemy health reaches 50%
 
-### 3. Jestiny Lubas
+## 3. Jestiny Lubas
 - Picture of your Team member
 - ACM Student, Senior
 - In charge of creating asset sprites
