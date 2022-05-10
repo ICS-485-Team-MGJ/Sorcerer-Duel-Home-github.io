@@ -3,14 +3,18 @@
 - [How to Play](#how-to-play)
 - [Team Ideas](#team-ideas)
 - [Prototype](#prototype)
-- [Final product](#final-product)
 - [Team Members](#team-members)
 - [Trello Board](#trello-board)
 
 # Overview
 Sorcerer's Duel is a tower defense game, but without the tower! Instead, YOU are the tower! Your goal is to defeat the enemy with a wide range of attacks, spells, and soldier units and survive the onslaught of attacks aimed towards you. You can use fireballs to directly damage the enemy from the minute the game starts, or destroy the barriers protecting the enemy using your soldier units to deal more damage. But be careful, the enemy can do the same. The longer the duel lasts, the more powerful the enemy becomes, so be sure to start out strong, prepare for a magical battle and be ready to get your duel on!
 
-- Video of gameplay
+## Gameplay
+[![Final Version](/images/cover-Images/final-version/final-version-cover.PNG)](https://youtu.be/aDY0pHC8lZg)
+
+## Play The Game
+[Play Sorcerer Duel](https://glarita.itch.io/sorcerers-duel-game)
+
 
 ## How to Play
 ### Controls
@@ -70,12 +74,6 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Early Gameplay
   
      ![Early Gameplay](/images/cover-Images/prototype-images/gamplay-prototype.PNG)
-
-
-## Final Product
-- Final Version:
-[![Final Version](/images/cover-Images/final-version/final-version-cover.PNG)](https://youtu.be/aDY0pHC8lZg)
-- put the link to where the game is currently hosted in
 
 ## Team Members
 
