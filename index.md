@@ -113,26 +113,26 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 
 - Spell 3
 
-![spell-3-card](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/spell-3-card.PNG)
+![spell-3-card](/images/cover-Images/final-version/spell-3-card.PNG)
 
 ## Power Ups
 - Apple Read
   - Heals Player Unit & Player
    
-   ![apple-heal](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/heal-power-up.PNG)
+   ![apple-heal](/images/cover-Images/final-version/heal-power-up.PNG)
    
 - Apple Blue
   - Gives Mana Back to player
   
-  ![apple-mana](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/mana-power-up.PNG)
+  ![apple-mana](/images/cover-Images/final-version/mana-power-up.PNG)
   
 - Apple Green
   - Damages the Enemy Player
   
-  ![apple-hurt](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/deal-damage-powerup.PNG)
+  ![apple-hurt](/images/cover-Images/final-version/deal-damage-powerup.PNG)
 
 ## Enemy Side
-![enemy-Side](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/enemy-side.PNG)
+![enemy-Side](/images/cover-Images/final-version/enemy-side.PNG)
 
 ## Units
 ### Player Units
@@ -141,7 +141,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Shoots arrows, dealing extra damage to knight units
   - Weak against Horsemen
 
-![archer](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/archer-unit.PNG)
+![archer](/images/cover-Images/final-version/archer-unit.PNG)
 
 - Knight
   - Counters Horsemen units
@@ -150,7 +150,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Deals extra damage to Horsemen & reflects damage to charging units
   - Weak Against Achers
 
-![knight](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/swordsmen.PNG)
+![knight](/images/cover-Images/final-version/swordsmen.PNG)
 
 - Horsemen
   - Counters Archer units
@@ -158,7 +158,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Charging at units deals extra damage execpt for Knight units
   - Weak against Knigh units
 
-![horsemen](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/knight.PNG)
+![horsemen](/images/cover-Images/final-version/knight.PNG)
 
 
 ### Enemy Units
@@ -167,7 +167,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Shoots arrows, dealing extra damage to knight units
   - Weak against Horsemen
 
-![archer](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/enemy-archer.PNG)
+![archer](/images/cover-Images/final-version/enemy-archer.PNG)
 
 - Knight
   - Counters Horsemen units
@@ -176,7 +176,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Deals extra damage to Horsemen & reflects damage to charging units
   - Weak Against Achers
 
-![knight](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/enemy-swordsmen.PNG)
+![knight](/images/cover-Images/final-version/enemy-swordsmen.PNG)
 
 - Horsemen
   - Counters Archer units
@@ -184,7 +184,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Charging at units deals extra damage execpt for Knight units
   - Weak against Knigh units
 
-![horsemen](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/cover-Images/final-version/enemy-Knight.PNG)
+![horsemen](/images/cover-Images/final-version/enemy-Knight.PNG)
 
 
 # Team Members
