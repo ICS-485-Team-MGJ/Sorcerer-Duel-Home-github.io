@@ -1,10 +1,10 @@
 # Table of Contents
 - [Overview](#overview)
-- [Team Ideas](#team ideas)
+- [Team Ideas](#team-ideas)
 - [Prototype](#prototype)
-- [Final product](#final product)
-- [Team Members](#team members)
-- [Trello Board](#trello board)
+- [Final product](#final-product)
+- [Team Members](#team-members)
+- [Trello Board](#trello-board)
 
 # Overview
 - brief synopsis of the game, give a short elavator summary about the game
