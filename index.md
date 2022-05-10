@@ -31,12 +31,17 @@ left mouse: summon unit from a barrier by clicking on the barrier you wish the u
 
 The goal of the game is to defeat the enemy by dealing damage. You can do this by hitting the enemy with fireballs, or destroying one of the enemy's barriers and sending units to attack that opening. As the game goes on, the enemy will also summon units to attack your barrier. You can defend yourself from these units by sending your own units in the same lane to fight. 
 
+There are a total of 7 lanes, all of which you can send units on to attack or defend against the enemy. 
+
 Our game implements a rock-paper-scissor damage dealing mechanism for its units:
 - Archer units are effective towards the knight units
 - Knight units are effective towards horsemen units
 - Horsemen units are effective towards archer units
 
 A health bar and a mana bar is present on the player's side. The mana bar helps the player keep track of how much mana they have, which will allow the player to utilize spell attacks towards the enemy units. 
+
+
+Once the enemy's health bar has reached zero the player wins the game. If the player's health bar reaches zero the enemy wins. 
 
 ## Team Ideas
 - Screen shot of the brains storm idea?
