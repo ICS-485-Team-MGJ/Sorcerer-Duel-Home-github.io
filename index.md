@@ -253,15 +253,19 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 - In charge of creating asset sprites
 - Designed and created character sprites
 ### Horsemen
-- Horsemen Sprite
+- Horsemen Sprites
 
 ![walking-sprite](/images/jestiny/Spearman.png)
-
-- Horsemen Death Sprite
 
 ![dead-sprite](/images/jestiny/Spearman%20_death.png)
 
 ### Knight
+- Knight Sprites
+
+![attack-sprite](/images/jestiny/Knight%20_%20melee.png)
+
+![dead-sprite](/images/jestiny/Knight%20_death.png)
+
 ### Archer
 ### Player
 ### Enemy
