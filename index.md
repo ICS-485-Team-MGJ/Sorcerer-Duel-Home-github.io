@@ -59,7 +59,7 @@
 - Implemented the Functionality of the Start, Win, and Lose scnene
  
 ### 2. [Glen Larita](https://glarita.github.io/)
-<img src="images/glen/IMG_0183.jpeg" width="220" height="220">
+<img src="images/glen/IMG_0183.jpeg" height="220">
 - ICS Student, Senior 
 - Include your individual Brainstoorm Documentation???
 - Responsible for implementing all behavior and functionality on the enemy AI side.
