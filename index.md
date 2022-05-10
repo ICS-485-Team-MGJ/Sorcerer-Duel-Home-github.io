@@ -7,8 +7,9 @@
 - [Trello Board](#trello-board)
 
 # Overview
-- brief synopsis of the game, give a short elavator summary about the game
-- brief synopsis of the gameplay
+Sorcerer's Duel is a tower defense game where you are the tower! Your goal is to defeat the enemy with a wide range of attacks, spells, and soldier units and survive the onslaught of attacks aimed towards you. You can use fireballs to directly damage the enemy from the minute the game starts, or destroy the barriers protecting the enemy using your soldier units to deal more damage. Prepare for a magical battle and be ready to get your duel on!
+
+- Video of gameplay
 
 ## Team Ideas
 - Screen shot of the brains storm idea?
