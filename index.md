@@ -58,12 +58,20 @@
 - Implemented the Win & Lose Conditions
 - Implemented the Functionality of the Start, Win, and Lose scnene
  
-### 2. Glen Larita
-- URL of your home page
-- Picture of your Team member
-- State your standing and whether you are ICS or ACM
+### 2. [Glen Larita](https://glarita.github.io/)
+- ICS Student, Senior 
 - Include your individual Brainstoorm Documentation???
-- Put Stuff that I did
+- Responsible for implementing all behavior and functionality on the enemy AI side.
+- Implemented: 
+   - The enemy movements
+   - The enemy's attacks (the fireball and mega fireball).
+   - The enemy's spawns and unit scripts
+   - The enemy's behavior change as the game is played out
+   - Enemy side unit behavior
+   - Sounds for all AI units and the enemy
+   - Increased spawn rate of units over time
+   - implemented animation of characters provided by Jestiny
+   - Implemented change in background music when enemy health reaches 50%
 
 ### 3. Jestiny Lubas
 - URL of your home page, linked in?
