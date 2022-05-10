@@ -209,11 +209,24 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 - Include your individual Brainstoorm Documentation??
 - Implemented the Player Side:
   - Player movment
-  - Player power ups
-  - Player spells
   - Player Side summoning Units
+  - Player Unit Cards 
+  - Player Spell cards
+  - Player Health & Mana Bar
 - Implemented all of the player units behaviors
+  - Implemented Archer Shoot arrow mechanics
+  - Implemented Knight's Armor mechanics
+  - Implemented Horsemen Charge mechanics
+- Implemented Player Abilities
+  - Implemented Spell 1, fire meteors to all enemies in range
+  - Implemented Spell 2, shoot laser at player's position
+  - Implemented Spell 3, shoot lasers to all lanes into 3 patterns
+  - Implemented Special Rally ability, to summon any unit to all the lanes
 - Implemented the Win & Lose Conditions
+- Implemented Player Power Ups
+  - Implemented Apple-Read, to heal player and the unit
+  - Implemented Apple-Blue, to give mana to player, random amount
+  - Implemented Apple-Green, to damage the enemy directly
 - Implemented the Functionality of the Start, Win, and Lose scnene
  
 ## 2. [Glen Larita](https://glarita.github.io/)
