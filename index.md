@@ -40,6 +40,7 @@ Our game implements a rock-paper-scissor damage dealing mechanism for its units:
 
 A health bar and a mana bar is present on the player's side. The mana bar helps the player keep track of how much mana they have, which will allow the player to utilize spell attacks towards the enemy units. 
 
+<img src="images/glen/healthbar.png" height="220">
 
 Once the enemy's health bar has reached zero the player wins the game. If the player's health bar reaches zero the enemy wins. 
 
