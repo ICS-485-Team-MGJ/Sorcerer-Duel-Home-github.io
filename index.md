@@ -60,6 +60,7 @@
  
 ### 2. [Glen Larita](https://glarita.github.io/)
 <img src="images/glen/IMG_0183.jpeg" height="220">
+
 - ICS Student, Senior 
 - Include your individual Brainstoorm Documentation???
 - Responsible for implementing all behavior and functionality on the enemy AI side.
