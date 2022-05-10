@@ -110,11 +110,22 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
    - Implemented change in background music when enemy health reaches 50%
 
 ### 3. Jestiny Lubas
-- URL of your home page, linked in?
 - Picture of your Team member
-- State your standing and whether you are ICS or ACM
-- Include your individual Brainstoorm Documentation???
-- Put Stuff that I did here
+- ACM Student, Senior
+- Designed and created character asset sprites
+  - Spearman
+  - Knight
+  - Archer
+  - Player/Enemy
+- Created magic spell sprites
+  - Metorite
+  - Laser
+  - Fireball projectiles
+- Created extra asset sprites
+  - Healing apple
+  - Bow and Arrow
+- Created animations for character sprites
+
 
 # Trello Board
 - [Team Trello Board](https://trello.com/b/p0tyVYj3/sorcerer-duel)
