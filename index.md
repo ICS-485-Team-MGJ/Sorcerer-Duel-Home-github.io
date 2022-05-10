@@ -13,6 +13,30 @@ Sorcerer's Duel is a tower defense game, but without the tower! Instead, YOU are
 - Video of gameplay
 
 ## How to Play
+### Controls
+Movement:
+w: move up
+s: move down
+space: shoot fireball
+
+Spells
+1: Meteor shower
+2: Laser beam
+3: Laser beam special attack
+
+Summoning and Switching Units:
+a: switch to left unit
+d: switch to right unit
+left mouse: summon unit from a barrier by clicking on the barrier you wish the unit to be summoned from.
+
+The goal of the game is to defeat the enemy by dealing damage. You can do this by hitting the enemy with fireballs, or destroying one of the enemy's barriers and sending units to attack that opening. As the game goes on, the enemy will also summon units to attack your barrier. You can defend yourself from these units by sending your own units in the same lane to fight. 
+
+Our game implements a rock-paper-scissor damage dealing mechanism for its units:
+- Archer units are effective towards the knight units
+- Knight units are effective towards horsemen units
+- Horsemen units are effective towards archer units
+
+A health bar and a mana bar is present on the player's side. The mana bar helps the player keep track of how much mana they have, which will allow the player to utilize spell attacks towards the enemy units. 
 
 ## Team Ideas
 - Screen shot of the brains storm idea?
