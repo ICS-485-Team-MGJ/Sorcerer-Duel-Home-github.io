@@ -206,7 +206,10 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 <img src="images/marcosb/gitHub-profile-picture.jpg" width="220" height="220">
 
 - ICS Student, Senior
-- Include your individual Brainstoorm Documentation??
+- My Sage Board
+
+![My-Brain-Storm](/images/marcosb/my-sage-board.PNG)
+
 - Implemented the Player Side:
   - Player movment
   - Player Side summoning Units
