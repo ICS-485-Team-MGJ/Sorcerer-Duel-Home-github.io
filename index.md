@@ -252,23 +252,25 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 - ACM Student, Senior
 - In charge of creating asset sprites
 - Designed and created character sprites
-### Horsemen
-- Horsemen Sprites
+
+### Horsemen Sprites
 
 ![walking-sprite](/images/jestiny/Spearman.png)
 
-![Horsemen-dead-sprite](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/jestiny/Spearman%20_death.png)
+![Horsemen-dead-sprite](/images/jestiny/Spearman%20_death.png)
 
-### Knight
-- Knight Sprites
+### Knight Sprites
 
 ![attack-sprite](/images/jestiny/Knight%20_%20melee.png)
 
 ![Knight-dead-sprite](/images/jestiny/Knight%20_death.png)
 
-### Archer
-### Player
-### Enemy
+### Archer Sprites
+### Player Srpites
+### Enemy Sprites
+### Spell Sprites
+### Power Up Sprite
+
 - Created magic spell sprites
   - Metorite
   - Laser
