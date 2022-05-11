@@ -257,14 +257,14 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 
 ![walking-sprite](/images/jestiny/Spearman.png)
 
-![dead-sprite](/images/jestiny/Spearman%20_death.png)
+![Horsemen-dead-sprite](/images/jestiny/Spearman%20_death.png)
 
 ### Knight
 - Knight Sprites
 
 ![attack-sprite](/images/jestiny/Knight%20_%20melee.png)
 
-![dead-sprite](/images/jestiny/Knight%20_death.png)
+![Knight-dead-sprite](/images/jestiny/Knight%20_death.png)
 
 ### Archer
 ### Player
