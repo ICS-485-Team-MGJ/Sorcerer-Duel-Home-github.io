@@ -259,6 +259,8 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
  ![team-img](/images/jestiny/265458506_1046682422784000_2781939306569641263_n.jpg)
  
 - ACM Student, Senior
+- Individual brainstorm
+![individual_brainstorm](/images/jestiny/Individual_brainstorm.PNG)
 - Created magic spell sprites
   - Metorite
   - Laser
