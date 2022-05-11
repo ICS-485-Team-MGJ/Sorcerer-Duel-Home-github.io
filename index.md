@@ -50,6 +50,7 @@ A health bar and a mana bar is present on the player's side. The mana bar helps 
 Once the enemy's health bar has reached zero the player wins the game. If the player's health bar reaches zero the enemy wins. 
 
 ## Team Ideas
+### Early Team Brainstorm
 - Screen shot of the brains storm idea?
 
 # Early Prototype
