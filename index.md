@@ -335,6 +335,17 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 ![player-win](/images/jestiny/Sprites/player-enemyAI/Player-Victory-Pose.png)
 
 ### Enemy Sprites
+
+![Enemy-Sprite](/images/jestiny/Sprites/player-enemyAI/Enemy-Sprite.PNG)
+
+- Enemy Dead
+
+![enemy-dead](/images/jestiny/Sprites/player-enemyAI/ENEMY-AI-death.png)
+
+- Enemy Hurt
+
+![enemy-hurt](/images/jestiny/Sprites/player-enemyAI/ENEMY-AI-Hit.png)
+
 ### Spell Sprites
 ### Power Up Sprite
 
