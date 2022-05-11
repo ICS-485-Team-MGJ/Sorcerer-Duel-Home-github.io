@@ -254,40 +254,62 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 - Designed and created character sprites
 
 ### Horsemen Sprites
-Horsemen Walking
+  - Horsemen Walking
 
 ![walking-sprite](/images/jestiny/Spearman.png)
 
-Horsemen Attacking
+  - Horsemen Attacking
 
 ![melee-sprite](/images/jestiny/Sprites/spearman/Spearman-melee.png)
 
-Horsemen Dead
+  - Horsemen Dead
 
 ![Horsemen-dead-sprite](/images/jestiny/Sprites/spearman/Spearman-death.png)
 
-Horsemen Hurt
+  - Horsemen Hurt
 
 ![horsemen-hit](/images/jestiny/Sprites/spearman/Spearman-hit.png)
 
 ### Knight Sprites
 
-Knight Walking
+  - Knight Walking
 
 ![attack-sprite](/images/jestiny/Sprites/knight/Knight-Walk.PNG)
 
-Knight Attacking
+  - Knight Attacking
 
 ![Knight-dead-sprite](/images/jestiny/Sprites/knight/Knight-Attack.png)
 
-Knight Dead
+  - Knight Dead
 
 ![Knight-dead](/images/jestiny/Sprites/knight/Knight-death.png)
 
-Knight Hurt
+  - Knight Hurt
+
 ![Knight-Hurt](/images/jestiny/Sprites/knight/Knight-hit.png)
 
 ### Archer Sprites
+
+  - Archer Walking
+
+![archer-walk](/images/jestiny/Sprites/archer/Archer-walking.png)
+
+  - Archer Attacking
+
+![archer-melee](/images/jestiny/Sprites/archer/Archer-melee.png)
+
+  - Archer Shooting
+
+![archer-shoot](/images/jestiny/Sprites/archer/Archer-attack-projectile.png)
+
+  - Archer Dead
+
+![archer-dead](/images/jestiny/Sprites/archer/Archer-death.png)
+
+  - Archer Hurt
+
+![archer-hurt](/images/jestiny/Sprites/archer/Archer-hit.png)
+
 ### Player Srpites
 ### Enemy Sprites
 ### Spell Sprites
