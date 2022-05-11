@@ -254,20 +254,38 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 - Designed and created character sprites
 
 ### Horsemen Sprites
+Horsemen Walking
 
 ![walking-sprite](/images/jestiny/Spearman.png)
 
+Horsemen Attacking
+
 ![melee-sprite](/images/jestiny/Sprites/spearman/Spearman-melee.png)
 
+Horsemen Dead
+
 ![Horsemen-dead-sprite](/images/jestiny/Sprites/spearman/Spearman-death.png)
+
+Horsemen Hurt
 
 ![horsemen-hit](/images/jestiny/Sprites/spearman/Spearman-hit.png)
 
 ### Knight Sprites
 
-![attack-sprite](/images/jestiny/Knight_melee.png)
+Knight Walking
 
-![Knight-dead-sprite](/images/jestiny/Knight_death.png)
+![attack-sprite](/images/jestiny/Sprites/knight/Knight-Walk.PNG)
+
+Knight Attacking
+
+![Knight-dead-sprite](/images/jestiny/Sprites/knight/Knight-Attack.png)
+
+Knight Dead
+
+![Knight-dead](/images/jestiny/Sprites/knight/Knight-death.png)
+
+Knight Hurt
+![Knight-Hurt](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/jestiny/Sprites/knight/Knight_%20hit.png)
 
 ### Archer Sprites
 ### Player Srpites
