@@ -285,7 +285,7 @@ Knight Dead
 ![Knight-dead](/images/jestiny/Sprites/knight/Knight-death.png)
 
 Knight Hurt
-![Knight-Hurt](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/jestiny/Sprites/knight/Knight_%20hit.png)
+![Knight-Hurt](/images/jestiny/Sprites/knight/Knight-hit.png)
 
 ### Archer Sprites
 ### Player Srpites
