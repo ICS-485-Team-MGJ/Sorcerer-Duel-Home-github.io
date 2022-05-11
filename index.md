@@ -347,6 +347,36 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 ![enemy-hurt](/images/jestiny/Sprites/player-enemyAI/ENEMY-AI-Hit.png)
 
 ### Spell Sprites
+
+- Spell 1
+  - Card
+  
+  ![spell-1-card](/images/jestiny/Sprites/extra_assets/Ability-1-card.png)
+  
+  - spell 1 Sprite
+  
+  ![spell-1-sprite](/images/jestiny/Sprites/extra_assets/Meteor(1).png)
+  
+- Spell 2
+  - Card
+
+  ![spell-2-card](/images/jestiny/Sprites/extra_assets/Ability-2-card.png)
+  
+  - Spell 2 Sprite
+
+  ![spell-2-animation-1](/images/jestiny/Sprites/extra_assets/Laser-1.png)
+  
+  ![spell-2-animation-2](/images/jestiny/Sprites/extra_assets/Laser-2.png)
+  
+  ![spell-2-animation-3](/images/jestiny/Sprites/extra_assets/Laser-3.png)
+
+
+  
+- Spell 3
+  - Card
+
+  ![spell-3-card](/images/jestiny/Sprites/extra_assets/Ability-3-card.png)
+  
 ### Power Up Sprite
 
 - Created magic spell sprites
