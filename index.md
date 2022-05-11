@@ -363,7 +363,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   
   - spell 1 Sprite
   
-  ![spell-1-sprite](/images/jestiny/Sprites/extra_assets/Meteor(1).png)
+  ![spell-1-sprite](/images/jestiny/Sprites/extra_assets/Meteor-Sprite.png)
   
 - Spell 2
   - Card
