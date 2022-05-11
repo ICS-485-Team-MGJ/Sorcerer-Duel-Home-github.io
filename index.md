@@ -250,6 +250,14 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
  ![team-img](/images/jestiny/265458506_1046682422784000_2781939306569641263_n.jpg)
  
 - ACM Student, Senior
+- Created magic spell sprites
+  - Metorite
+  - Laser
+  - Fireball projectiles
+- Created extra asset sprites
+  - Healing apple
+  - Bow and Arrow
+- Created animations for character sprites
 - In charge of creating asset sprites
 - Designed and created character sprites
 
@@ -379,14 +387,16 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   
 ### Power Up Sprite
 
-- Created magic spell sprites
-  - Metorite
-  - Laser
-  - Fireball projectiles
-- Created extra asset sprites
-  - Healing apple
-  - Bow and Arrow
-- Created animations for character sprites
+![apple-Heal](/images/jestiny/Sprites/extra_assets/PowerUp-Heal.png)
+
+### Sprites for Start, Lose and Win
+- Background
+
+![background](/images/jestiny/Sprites/extra_assets/BackGrounds.png)
+
+- Defeat
+
+![Defeat](/images/jestiny/Sprites/extra_assets/Defeat-Screen.png)
 
 
 # Trello Board
