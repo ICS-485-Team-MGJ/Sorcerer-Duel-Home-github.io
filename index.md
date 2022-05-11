@@ -51,7 +51,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 
 ## Team Ideas
 ### Early Team Brainstorm
-<img src="images/glen/Sorcerers_Duel.png">
+<img src="images/glen/Sorcerers_ Duel.png">
 
 # Early Prototype
 ## Demo Video
