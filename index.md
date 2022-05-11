@@ -241,12 +241,17 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 - Implemented: 
    - The enemy movements
    - The enemy's attacks (the fireball and mega fireball).
-   - The enemy's spawns and unit scripts
+   - The enemy's unit spawn and unit scripts
    - The enemy's behavior change as the game is played out
+   - Enemy barrier scripts
+   - Enemy and enemy unit sounds
+   - Rock, Paper, Scissors damage mechanics for enemy side
+   - Implemented enemy unit damage to player's barrier
    - Enemy side unit behavior
    - Sounds for all AI units and the enemy
-   - Increased spawn rate of units over time
-   - implemented animation of characters provided by Jestiny
+   - Increased spawn rate of units over time.
+   - Animate enemy units using Jestiny's designs
+   - Implement change in enemy behavior once its health reaches 50%
    - Implemented change in background music when enemy health reaches 50%
 
 ## 3. Jestiny Lubas
