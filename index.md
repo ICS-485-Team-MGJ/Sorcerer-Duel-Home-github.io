@@ -257,7 +257,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 
 ![walking-sprite](/images/jestiny/Spearman.png)
 
-![Horsemen-dead-sprite](/images/jestiny/Spearman%20_death.png)
+![Horsemen-dead-sprite](https://github.com/ICS-485-Team-MGJ/Sorcerer-Duel-Home-github.io/blob/gh-pages/images/jestiny/Spearman%20_death.png)
 
 ### Knight
 - Knight Sprites
