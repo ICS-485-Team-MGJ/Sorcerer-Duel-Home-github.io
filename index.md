@@ -247,7 +247,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
    - Implemented change in background music when enemy health reaches 50%
 
 ## 3. Jestiny Lubas
- <img src="/images/jestiny/265458506_1046682422784000_2781939306569641263_n.jpg">
+ ![team-img](/images/jestiny/265458506_1046682422784000_2781939306569641263_n.jpg)
  
 - ACM Student, Senior
 - In charge of creating asset sprites
