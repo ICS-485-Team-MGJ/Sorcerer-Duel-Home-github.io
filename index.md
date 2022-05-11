@@ -310,7 +310,30 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 
 ![archer-hurt](/images/jestiny/Sprites/archer/Archer-hit.png)
 
+- Archer Arrow Projectile
+
+![Arrow](/images/jestiny/Sprites/archer/Arrow-projectile.png)
+
 ### Player Srpites
+
+![Player](/images/jestiny/Sprites/player-enemyAI/Player-Sprite.PNG)
+
+- Player Hurt
+
+![player-hurt](/images/jestiny/Sprites/player-enemyAI/Player-Hit.png)
+
+- Player Dead
+
+![player-dead](/images/jestiny/Sprites/player-enemyAI/Player-Dead-Sprites.png)
+
+- Player Lose Pose
+
+![player-lose](/images/jestiny/Sprites/player-enemyAI/Player-Dead.png)
+
+- Player Win Pose
+
+![player-win](/images/jestiny/Sprites/player-enemyAI/Player-Victory-Pose.png)
+
 ### Enemy Sprites
 ### Spell Sprites
 ### Power Up Sprite
