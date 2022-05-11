@@ -86,13 +86,13 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 
 ![late-stage](/images/cover-Images/final-version/gameplay-2.PNG)
 
-## Starting Menue
+## Starting Menu
 ![Starting Menue](/images/cover-Images/final-version/final-version-cover.PNG)
 
-## Lose Menue
+## Lose Menu
 ![Lose Menue](/images/cover-Images/final-version/lose-scene.PNG)
 
-## Win Menue
+## Win Menu
 ![Win Menue](/images/cover-Images/final-version/win-scene.PNG)
 
 ## Player Side   
@@ -227,7 +227,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
   - Implemented Apple-Read, to heal player and the unit
   - Implemented Apple-Blue, to give mana to player, random amount
   - Implemented Apple-Green, to damage the enemy directly
-- Implemented the Functionality of the Start, Win, and Lose scnene
+- Implemented the Functionality of the Start, Win, and Lose Menu
  
 ## 2. [Glen Larita](https://glarita.github.io/)
 <img src="images/glen/IMG_0183.jpeg" height="220">
