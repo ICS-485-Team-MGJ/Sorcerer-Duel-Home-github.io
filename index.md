@@ -237,7 +237,7 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 <img src="images/glen/IMG_0183.jpeg" height="220">
 - ICS Student, Senior 
 
-![my-brainstorm](/images/glen/glen_sageboard.png)
+![my-brainstorm](/images/glen/glen_storyboard.png)
 
 - Responsible for implementing all behavior and functionality on the enemy AI side.
 - Implemented: 
