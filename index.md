@@ -236,7 +236,8 @@ Once the enemy's health bar has reached zero the player wins the game. If the pl
 ## 2. [Glen Larita](https://glarita.github.io/)
 <img src="images/glen/IMG_0183.jpeg" height="220">
 - ICS Student, Senior 
-![](/images/glen/glen_sageboard.PNG)
+
+![my-brainstorm](/images/glen/glen_sageboard.png)
 
 - Responsible for implementing all behavior and functionality on the enemy AI side.
 - Implemented: 
