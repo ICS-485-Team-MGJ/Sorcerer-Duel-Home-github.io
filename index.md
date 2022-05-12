@@ -11,6 +11,8 @@
 Sorcerer's Duel is a tower defense game, but without the tower! Instead, YOU are the tower! Your goal is to defeat the enemy with a wide range of attacks, spells, and soldier units and survive the onslaught of attacks aimed towards you. You can use fireballs to directly damage the enemy from the minute the game starts, or destroy the barriers protecting the enemy using your soldier units to deal more damage. But be careful, the enemy can do the same. The longer the duel lasts, the more powerful the enemy becomes, so be sure to start out strong, prepare for a magical battle and be ready to get your duel on!
 
 ## Gameplay Demo
+Watch gameplay of Sorcerer Duel [here](https://www.youtube.com/watch?v=ltH-BZoq67A).
+
 [![Final Version](/images/cover-Images/final-version/final-version-cover.PNG)](https://youtu.be/aDY0pHC8lZg)
 
 ## Play The Game
